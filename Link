@@ -13,7 +13,22 @@ When return inside wuth open block  https://stackoverflow.com/questions/9885217/
 Command Line Tool? https://macnews.tistory.com/4243
 edge device https://netilion.endress.com/blog/what-is-edge-device-iiot/
 
+python global vs local variable
+ def f():
+    print(x)
 
+x = "1"
+f()
+-> 1
+
+def f():
+    global x
+    x = 2
+    print(x)
+
+x = "1"
+f()
+-> 2
 
 
 
