@@ -37,3 +37,5 @@ self-signed certificate https://www.keyfactor.com/blog/self-signed-certificate-r
 
 정규표현식 (REGEX) https://hamait.tistory.com/342
 REGEX VSCode https://docs.microsoft.com/en-us/visualstudio/ide/using-regular-expressions-in-visual-studio?view=vs-2022
+
+terminal: ls > ../filelist.txt    ->    현재 디렉토리의 파일명을 상위 디텍토리 안의 filelist.txt 파일에 저장
