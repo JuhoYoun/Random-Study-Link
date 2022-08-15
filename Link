@@ -39,3 +39,4 @@ self-signed certificate https://www.keyfactor.com/blog/self-signed-certificate-r
 REGEX VSCode https://docs.microsoft.com/en-us/visualstudio/ide/using-regular-expressions-in-visual-studio?view=vs-2022
 
 terminal: ls > ../filelist.txt    ->    현재 디렉토리의 파일명을 상위 디텍토리 안의 filelist.txt 파일에 저장
+How to Execute Linux Commands in Python  https://www.section.io/engineering-education/how-to-execute-linux-commands-in-python/
