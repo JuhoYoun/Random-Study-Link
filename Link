@@ -41,3 +41,4 @@ REGEX VSCode https://docs.microsoft.com/en-us/visualstudio/ide/using-regular-exp
 terminal: ls > ../filelist.txt    ->    현재 디렉토리의 파일명을 상위 디텍토리 안의 filelist.txt 파일에 저장
 How to Execute Linux Commands in Python  https://www.section.io/engineering-education/how-to-execute-linux-commands-in-python/
 google_auth_oauthlib.flow module how to get auth url. https://google-auth-oauthlib.readthedocs.io/en/latest/reference/google_auth_oauthlib.flow.html
+javascript focus event  https://developer.mozilla.org/en-US/docs/Web/API/Element/focusout_event
