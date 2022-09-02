@@ -43,3 +43,4 @@ How to Execute Linux Commands in Python  https://www.section.io/engineering-educ
 google_auth_oauthlib.flow module how to get auth url. https://google-auth-oauthlib.readthedocs.io/en/latest/reference/google_auth_oauthlib.flow.html
 javascript focus event  https://developer.mozilla.org/en-US/docs/Web/API/Element/focusout_event
 Attach Event to Dynamically Created Elements with jQuery  https://makitweb.com/attach-event-to-dynamically-created-elements-with-jquery/
+python 가상환경 비교 https://devbull.xyz/python-create-environment/
