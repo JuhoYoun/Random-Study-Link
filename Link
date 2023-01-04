@@ -53,3 +53,6 @@ Copy files from EC2 to S3 Bucket in 4 steps https://www.middlewareinventory.com/
 brew로 mysql 설치 https://late90.tistory.com/445
 
 black formatter https://www.daleseo.com/python-black/
+
+PermissionError: [Errno 1] Operation not permitted. -> This means that you need to start your script with sudo/admin rights.
+-> sudo python3 main.py
