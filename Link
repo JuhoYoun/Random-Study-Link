@@ -84,7 +84,9 @@ http://itnovice1.blogspot.com/2019/08/blog-post_99.html
 VSCode와 Anaconda 가상 환경 연결하기
 https://optilog.tistory.com/12
 
-Launch terminals with clean environments
+VScode Message
+We noticed you're using a conda environment. If you are experiencing issues with this environment in the integrated terminal, we recommend that you let the Python extension change "terminal.integrated.inheritEnv" to false in your user settings.
+-> Launch terminals with clean environments
 https://code.visualstudio.com/updates/v1_36#_launch-terminals-with-clean-environments
 
 
