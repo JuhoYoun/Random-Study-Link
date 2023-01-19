@@ -108,7 +108,8 @@ For background, Anaconda just recently started supporting ARM64 architectures. N
 Setting the environment variable CONDA_SUBDIR=osx-64 forces conda to install Intel packages. These run under emulation and will have a performance impact.
 Attempted with both miniforge3-4.10.3-10 and anaconda3-2022.05.
 
-
+*args and **kwargs in Python
+https://www.geeksforgeeks.org/args-kwargs-python/
 
 
 
